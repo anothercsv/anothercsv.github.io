@@ -7,3 +7,5 @@ This repository is built step by step in the tutorial.
 It now includes steps for github
 
 We tested 'pull' which is a combination of fetch and merge
+
+Here's a line after branching
